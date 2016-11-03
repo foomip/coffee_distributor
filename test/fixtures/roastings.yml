@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  coffee_bean: one
+  days: 1
+  cost: 9.99
+
+two:
+  coffee_bean: two
+  days: 1
+  cost: 9.99

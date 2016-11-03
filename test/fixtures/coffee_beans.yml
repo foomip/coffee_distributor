@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  country: MyString
+  raw_cost_markup: 1
+  roasted_cost_markup: 1
+
+two:
+  name: MyString
+  country: MyString
+  raw_cost_markup: 1
+  roasted_cost_markup: 1

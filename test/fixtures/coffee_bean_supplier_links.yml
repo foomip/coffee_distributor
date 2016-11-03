@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  coffee_bean: one
+  supplier: one
+  cost: 9.99
+  delivery_days: 1
+
+two:
+  coffee_bean: two
+  supplier: two
+  cost: 9.99
+  delivery_days: 1
